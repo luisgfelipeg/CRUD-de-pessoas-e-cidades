@@ -1,0 +1,26 @@
+{
+  "pessoas": [
+    {
+      "nomeCompleto": "Amanda De Negri Ceolin Garcia",
+      "email": "amandadenegriceolin@gmail.com",
+      "cidadeId": 2,
+      "id": 10
+    },
+    {
+      "nomeCompleto": "Luis Felipe Gongora Garcia",
+      "email": "lfelipeggarcia@gmail.com",
+      "cidadeId": 2,
+      "id": 11
+    }
+  ],
+  "cidades": [
+    {
+      "nome": "Campinas",
+      "id": 1
+    },
+    {
+      "nome": "Araçatuba",
+      "id": 2
+    }
+  ]
+}
